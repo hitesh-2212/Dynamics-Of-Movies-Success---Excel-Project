@@ -93,7 +93,8 @@ and audience reception metrics.
 
 <h2>📊 Dashboard Preview</h2>
 <p align="center">
-  <img src="Movie_Dashboard_Image.png" alt="Movie Success Excel Dashboard" width="90%">
+  <img width="1859" height="920" alt="Screenshot 2025-12-25 140152" src="https://github.com/user-attachments/assets/210b21cf-4513-482e-89bc-534bdd63b859" />
+
 </p>
 
 <hr>
