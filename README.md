@@ -1,3 +1,7 @@
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/8bf9907f-6ea1-4368-b656-4def007a70c1" />
+
+
+
 ## 🎯 Project Objective:-
 
 The Movie Success Dynamics Analysis project focuses on understanding the key factors that influence a movie’s commercial performance using Microsoft Excel. In a highly competitive entertainment industry, identifying what drives box office success is crucial for producers, investors, and production houses.
