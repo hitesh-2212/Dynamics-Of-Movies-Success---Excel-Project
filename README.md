@@ -8,14 +8,14 @@ The primary objective of this project is to analyze historical movie data to unc
 The dataset consists of historical movie information collected from multiple sources and structured for analysis in Microsoft Excel. Each row represents a single movie, with attributes describing financial performance, audience reception, and production characteristics.
 
 ### Key Fields in the Dataset:-
---> Movie Title – Name of the movie
---> Genre – Primary movie genre (Action, Drama, Family, etc.)
---> Budget – Total production budget
---> Box Office Revenue – Worldwide revenue generated
---> Runtime (Minutes) – Duration of the movie
---> IMDb Rating – Audience rating score
---> Production House – Studio responsible for production
---> Release Year – Year of release
+##### --> Movie Title – Name of the movie
+##### --> Genre – Primary movie genre (Action, Drama, Family, etc.)
+##### --> Budget – Total production budget
+##### --> Box Office Revenue – Worldwide revenue generated
+##### --> Runtime (Minutes) – Duration of the movie
+##### --> IMDb Rating – Audience rating score
+##### --> Production House – Studio responsible for production
+##### --> Release Year – Year of release
 
 ## 🔍 Key Insights :-
 
